@@ -1,0 +1,10 @@
+html {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg/1199px-Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg');
+        
+}
+
+body {
+    color: rgb(18, 236, 36);
+    border: 10px solid white;
+    padding: 35px;
+}
